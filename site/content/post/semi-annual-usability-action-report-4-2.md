@@ -1,15 +1,7 @@
 ---
-author: 'John Utter, UAM'
-category: Deliverable
-draft: false
-layout: post
 title: Semi-Annual Usability Action Report 4.2
-date: 2019-01-14T13:30:04.333Z
+date: 2019-01-10T13:30:04.333Z
 description: 'Submitted by: CWTSatoTravel ··· July - December 2018 ··· Edition 4.2'
-path: /posts/SAUAR-4.2/
-tags:
-  - SAUAR
-typora-copy-images-to: ./
 ---
 
 
